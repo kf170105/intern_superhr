@@ -1,0 +1,12 @@
+{
+  "name": "jobstreet-debug",
+  "version": "1.0.0",
+  "description": "Local Puppeteer debugger with UI",
+  "main": "debug-puppeteer.js",
+  "scripts": {
+    "debug": "node debug-puppeteer.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}

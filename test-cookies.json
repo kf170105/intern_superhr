@@ -1,0 +1,263 @@
+[
+  {
+    "name": "sol_id",
+    "value": "f39f0f89-b51e-4a0e-823c-59d3daf6a50d",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "da_cdt",
+    "value": "visid_019c144c033700118439adb68bbd0506f001d067009d8-sesid_1769867051832-hbvid_f39f0f89_b51e_4a0e_823c_59d3daf6a50d-tempAcqSessionId_1769867051638-tempAcqVisitorId_f39f0f89b51e4a0e823c59d3daf6a50d",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "hubble_debug",
+    "value": "true",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "da_anz_hirer_sid",
+    "value": "1769867051832",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1769867052444.126926021129906234",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.2083633872.1769867053",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_tt_enable_cookie",
+    "value": "1",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ttp",
+    "value": "01KGA4R1RCBVEDX8VH3ZHKY4N9_.tt.1",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hjSession_390553",
+    "value": "eyJpZCI6IjMzY2I0YTJjLTljNGEtNDc4Ni1iOGExLTg1N2Y1NTIxNzhkMCIsImMiOjE3Njk4NjcwNTQ3MTgsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_clck",
+    "value": "an9gu0%5E2%5Eg36%5E0%5E2222",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.842830592.1769867053.1149154976.1769867058.1769867060",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_legacy_auth0.6IjJ81HLrj3r53GxPa8ufS51IX9Os0lF.is.authenticated",
+    "value": "true",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "auth0.6IjJ81HLrj3r53GxPa8ufS51IX9Os0lF.is.authenticated",
+    "value": "true",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hjSessionUser_390553",
+    "value": "eyJpZCI6ImMxOGIxNzQ2LTgxNmYtNTJkNC04MzU0LWNhMjhmZTZmOWI1ZCIsImNyZWF0ZWQiOjE3Njk4NjcwNTQ3MTYsImV4aXN0aW5nIjp0cnVlfQ==",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hjHasCachedUserAttributes",
+    "value": "true",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "intercom-id-f28vuejb",
+    "value": "e8c8a815-50bd-4476-a241-aba94f291956",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "intercom-device-id-f28vuejb",
+    "value": "cd03e46f-500c-4b2a-a9c5-9c4ee1af976b",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetsid",
+    "value": "ee7e29b0feaa11f09dfec52dbfb6becd",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetvid",
+    "value": "ee7e5d50feaa11f09525cdacb05fd347",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_clsk",
+    "value": "lh789l%5E1769867779342%5E10%5E0%5Ez.clarity.ms%2Fcollect",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttcsid",
+    "value": "1769867052817::XlIjbHUKcJxeHZerxhfj.1.1769867780295.0",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttcsid_CH4A70BC77U3R61EFUI0",
+    "value": "1769867052816::picSuML2KX8BFfL5TTxi.1.1769867780295.1",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_EBN2Y2SFJD",
+    "value": "GS2.1.s1769867052$o1$g1$t1769867782$j35$l0$h0",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "JobseekerSessionId",
+    "value": "60ced7cd-9f66-43e0-bec9-f1995a0e8613",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "JobseekerVisitorId",
+    "value": "60ced7cd-9f66-43e0-bec9-f1995a0e8613",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main",
+    "value": "v_id:019c144c033700118439adb68bbd0506f001d067009d8$_sn:1$_se:59%3Bexp-session$_ss:0%3Bexp-session$_st:1769869582492%3Bexp-session$ses_id:1769867051832%3Bexp-session$_pn:25%3Bexp-session$_prevpage:dashboard%3Bexp-1769871382514$dc_visit:1$dc_event:1%3Bexp-session$dc_region:ap-southeast-2%3Bexp-session",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "hubble_temp_acq_session",
+    "value": "id%3A1769867051638_end%3A1769869582524_sent%3A56",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "intercom-session-f28vuejb",
+    "value": "Q05JczgvbDRBMVI2eGxSeG15d2dqZlluVFBFMStqYW51QlFwMXlxV296L0NrUEVKY1ZVQ2xUSDNJcThBNjVLUCs4UVo0VE1JMDUwZFRNTVQyUmo0TFJOMEhUd3B0di90cGdtMHBpL2RQRlU9LS1oU0hER2Q5UjNpRElISjV4TW5OZi9RPT0=--d6721225eea9ba55502e5c7f487250e45260ebaf",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_dd_s",
+    "value": "aid=b0abd201-42c7-41da-bf14-f984389bff2d&rum=2&id=b5641437-6805-4020-baa4-7a4fb9b06103&created=1769867051651&expire=1769868694361&logs=0",
+    "domain": ".seek.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  }
+]
